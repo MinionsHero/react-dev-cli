@@ -1,6 +1,6 @@
 {
   "name": "react-cli-minions",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "react dev cli",
   "repository": {
     "type": "git",
@@ -8,7 +8,7 @@
   },
   "main": "index.js",
   "bin": {
-    "react-dev-cli": "bin/react-dev-server"
+    "react-dev-cli": "bin/react-dev-server.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

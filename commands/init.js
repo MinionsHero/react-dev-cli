@@ -13,7 +13,8 @@ const tplList = require(`${__dirname}/../template`)
 const tplLists = Object.keys(tplList) || [];
 console.log(`
 ${chalk.green('欢迎使用MinonsHero的React脚手架')}
-${chalk.green('有问题反馈:')}
+${chalk.green('有问题欢迎反馈:')}
+${chalk.underline('https://github.com/MinionsHero/react-dev-cli/issues')}
 `)
 const question = [
   {
