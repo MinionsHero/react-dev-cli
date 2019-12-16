@@ -124,7 +124,7 @@ module.exports = prompt(question).then(({ name, template, description, author })
             console.log(`
             ${chalk.bgWhite.black('👉 运行命令进入项目开启你的React之旅~  ')}
             ${chalk.yellow(`cd ${projectName}`)}
-            ${chalk.yellow('npm start')}`);
+            ${chalk.yellow('npm run start')}`);
           }).catch((e) => {
             console.log(`${chalk.red(e.message)}`)
           })
