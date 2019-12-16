@@ -1,1 +1,1 @@
-console.error('Please install global this package and or use npx react-dev-cli init')
+console.error('Please install global this package and or use npx @minionshero/react-dev-cli init')
