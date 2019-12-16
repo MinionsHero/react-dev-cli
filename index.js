@@ -1,0 +1,1 @@
+console.error('Please install global this package and or use npx react-dev-cli init')
